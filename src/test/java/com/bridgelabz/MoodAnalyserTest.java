@@ -5,11 +5,11 @@ import org.junit.jupiter.api.Test;
 public class MoodAnalyserTest
 {
     @Test
-    public void caseSad() {
-        MoodAnalyser moodAnalyser = new MoodAnalyser("I Am In Sad mood.");
+        public void caseHappy(){
+        MoodAnalyser moodAnalyser = new MoodAnalyser("I Am In a Happy mood.");
         String result = moodAnalyser.analyseMood();
         System.out.println(result);
-        Assertions.assertEquals("SAD", result);
+        Assertions.assertEquals("HAPPY" , result);
     }
 
 }
