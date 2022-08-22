@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.bridgelabz.MoodAnalyserTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-08-22T11:22:24" hostname="FALGUNI" time="0.111">
+<testsuite name="com.bridgelabz.MoodAnalyserTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-08-22T12:53:28" hostname="FALGUNI" time="0.155">
   <properties/>
-  <testcase name="caseSad()" classname="com.bridgelabz.MoodAnalyserTest" time="0.111"/>
-  <system-out><![CDATA[Sad
+  <testcase name="caseSad()" classname="com.bridgelabz.MoodAnalyserTest" time="0.155"/>
+  <system-out><![CDATA[SAD
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
