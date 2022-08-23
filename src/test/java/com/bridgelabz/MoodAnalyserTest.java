@@ -23,7 +23,7 @@ public class MoodAnalyserTest
         MoodAnalyser moodAnalyser = new MoodAnalyser(null);
         String result = moodAnalyser.analyseMood();
         System.out.println(result);
-        Assertions.assertEquals("InvalidMood" , result);
+        Assertions.assertEquals("HAPPY" , result);
     }
 
 }

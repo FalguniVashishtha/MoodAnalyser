@@ -20,7 +20,7 @@ public class MoodAnalyser {
         {
             System.out.println("Please Enter the Valid Mood.");
         }
-        return "";
+        return "HAPPY";
     }
 
 }
